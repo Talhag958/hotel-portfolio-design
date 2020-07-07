@@ -1,0 +1,23 @@
+Part B: Web Development
+
+Pauline does not have her own website currently, she would like you to set up a sample “home” page which has information on the Bed & Breakfast, e.g. the different rooms and their features. A table can be used to hold images of the different rooms - all room images should be the same size. The page can also promote the additional services offered e.g. the outdoor excursions.
+
+Headings, paragraphs and hyperlinks should also be used appropriately and the webpage should be designed with accessibility in mind.
+
+How you design the page is entirely up to you - BUT it should follow general good web design principes, e.g. keep it simple, don’t overuse bright colours etc.
+
+Content Styles
+
+Aim to use a wide range of the tags Use both inline and internal CSS specified on the HTML Cheat sheet
+
+File name: ​Firstname_HH_Web.html
+
+Part D: Report
+
+Using MS Word, write a report (450-500 words) which covers the following points:
+
+(1) How well you believe you’ve met the requirements of this assignment? (2) What you have learnt from working on this assignment?
+
+(3) What would you do differently in the future?
+
+Filename: ​Firstname_HH_Report
